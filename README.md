@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=star574&show_icons=true&count_private=true&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/[star574])
