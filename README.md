@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://komarev.com/ghpvc/?username=star574) 访问量
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=star574&show_icons=true&count_private=true&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
  [![Deshun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideshun)](https://github.com/ideshun)
-![](https://komarev.com/ghpvc/?username=star574)
+
