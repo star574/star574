@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![](https://komarev.com/ghpvc/?username=star574) 访问量
 -->
-<img src="https://images.wallpaperscraft.com/image/single/code_programming_monitor_209719_2048x1152.jpg" weight=200px><img>
+<img src="https://images.wallpaperscraft.com/image/single/code_programming_monitor_209719_2048x1152.jpg" height=200px><img>
 ### star574's github  - 卷死在座的各位 👋
 ![](https://komarev.com/ghpvc/?username=star574) 
 ## 
