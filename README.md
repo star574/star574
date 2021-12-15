@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=star574&color=blueviolet)
  
 ## 技术栈 
-- 😄**后端:**   Java，Go，Python
-- 😃**前端:**   HTML，CSS，JavaScript, Vue, Echarts
-- 😆**数据库:** MySQL, PostgreSQL, Redis
-- 😆**运维:**   Docker,K8s
-- 😆**Linux:**   Centos，Debian，Ubuntu，Manjaro，Arch
+- 😄**后端：**   Java，Go，Python
+- 😃**前端：**   HTML，CSS，JavaScript, Vue, Echarts
+- 😆**数据库：** MySQL, PostgreSQL, Redis
+- 😆**运维：**   Docker,K8s
+- 😆**Linux：**   Centos，Debian，Ubuntu，Manjaro，Arch
 
 ## 兴趣
 - 🔭 喜欢吉他
