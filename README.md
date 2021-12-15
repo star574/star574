@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### star574's github  - 卷死在座的各位 👋
 ![](https://komarev.com/ghpvc/?username=star574) 
 ## 
-- 😄**后端** Java，Go，Python
-- 😃**前端** HTML，CSS，JavaScript, Vue, Echarts
+- 😄**后端**   Java，Go，Python
+- 😃**前端**   HTML，CSS，JavaScript, Vue, Echarts
 - 😆**数据库** MySQL, PostgreSQL, Redis
-- 😆**运维** docker k8s
+- 😆**运维**   Docker K8s
 
 
 ## Github
