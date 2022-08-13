@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄**后端：**   Java，Go，Python
 - 😃**前端：**   HTML，CSS，JavaScript, Vue, Echarts，Element-UI，Uni-APP，Flutter
 - 😆**数据库：** MySQL, PostgreSQL, Redis
-- 😆**运维：**   Docker，K8s，Jenkins,Sonarqube
+- 😆**运维：**   Docker，K8s，Jenkins，Sonarqube
 - 😆**Linux：**   Centos，Debian，Ubuntu，Manjaro，Arch
 
 ## 兴趣
