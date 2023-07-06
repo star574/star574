@@ -20,19 +20,18 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=star574&color=blueviolet)
  
 ## 技术栈 
-- 😄**后端：**   Java，Go，Python
-- 😃**前端：**   HTML，CSS，JavaScript, Vue, Echarts，Element-UI，Uni-APP，Flutter
+- 😄**后端：**   Java，Go，Python，rust
+- 😃**前端：**   HTML，CSS，JavaScript, Vue2/Vue3,vite, Echarts，Element-UI，Uni-APP，Flutter
 - 😆**数据库：** MySQL, PostgreSQL, Redis
 - 😆**运维：**   Docker，K8s，Jenkins，Sonarqube
 - 😆**Linux：**   Centos，Debian，Ubuntu，Manjaro，Arch
 
 ## 兴趣
-- 🌱 喜欢代码
-- 👯 喜欢篮球
-- 🤔 喜欢电影
-- 💬 喜欢linux
-- 📫 喜欢倒腾vps
-- ⚡ 图拉丁吧图钉兼卡吧奸细一枚
+- 🌱 代码
+- 👯 篮球
+- 🤔 电影
+- 💬 linux
+- 📫 倒腾vps
 
 ## Language
 [![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star574)](https://github.com/star574)
